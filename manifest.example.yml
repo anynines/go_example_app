@@ -1,9 +1,0 @@
----
-applications:
-- name: your-app-name
-  instances: 1
-  memory: 64MB
-  host: your-app-name
-  buildpack: https://github.com/cloudfoundry/go-buildpack.git
-  env:
-    GOPACKAGENAME : your-app-name
