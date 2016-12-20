@@ -6,4 +6,4 @@ applications:
   host: your-app-name
   buildpack: https://github.com/cloudfoundry/go-buildpack.git
   env:
-    GOPACKAGENAME : go-to-web
+    GOPACKAGENAME : your-app-name
